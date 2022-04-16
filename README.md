@@ -1,4 +1,5 @@
-# twitter-app
+# Twitter Application
+Twitter clone application built using Vue JS framework.
 
 ## Project setup
 ```
